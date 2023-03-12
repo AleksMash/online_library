@@ -1,5 +1,6 @@
 import json
 import os
+import math
 from pathlib import Path
 from http.server import HTTPServer, SimpleHTTPRequestHandler
 
@@ -18,10 +19,17 @@ def on_reload():
         autoescape=select_autoescape(['html'])
     )
     book_pages = chunked(books, 10)
+    print(type(books))
+    page_count = math.ceil(len(books)/10)
+    print(page_count)
     for page_num, book_page in enumerate(book_pages):
         book_rows = chunked(book_page, 2)
         template = env.get_template('template.html')
-        rendered_page = template.render(book_rows=book_rows)
+        rendered_page = template.render(
+            book_rows=book_rows,
+            page_count=page_count,
+            active_page=page_num+1
+        )
         with open(Path('pages', f'index{page_num+1}.html'), 'w', encoding="utf8") as file:
             file.write(rendered_page)
 

@@ -30,7 +30,7 @@ def on_reload():
             page_count=page_count,
             active_page=page_num+1
         )
-        with open(Path('pages', f'index{page_num+1}.html'), 'w', encoding="utf8") as file:
+        with open(Path('pages', f'index{"" if not page_num else page_num+1}.html'), 'w', encoding="utf8") as file:
             file.write(rendered_page)
 
 
@@ -41,7 +41,7 @@ def main():
     server.watch('template.html', on_reload)
     # server = HTTPServer(('127.0.0.1', 8000), SimpleHTTPRequestHandler)
     # server.serve_forever()
-    server.serve(root='.', default_filename='pages/index1.html')
+    server.serve(root='.', default_filename='pages/index.html')
 
 
 if __name__ == '__main__':

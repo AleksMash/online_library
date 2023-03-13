@@ -4,18 +4,18 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="icon" href="/assets/favicon.png" type="image/png">
+    <link rel="icon" href="../assets/favicon.png" type="image/png">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 
     <title>Library</title>
   </head>
   <body>
     <!-- Optional JavaScript; choose one of the two! -->
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
-    <script src="/js/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    <script src="../js/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="../js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 
     <!-- Option 2: jQuery, Popper.js, and Bootstrap JS
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -28,19 +28,25 @@
           {% if active_page==1 %}
             <li class="page-item disabled"><a class="page-link" href="#">Назад</a></li>
           {% else %}
-            <li class="page-item"><a class="page-link" href="/pages/index{{active_page-1}}.html">Назад</a></li>
+            <li class="page-item">
+              <a class="page-link" href="index{{'' if active_page==2 else active_page-1}}.html">Назад</a>
+            </li>
           {% endif %}
           {% for page_num in range(1, page_count+1) %}
             {% if page_num==active_page %}
-              <li class="page-item active"><a class="page-link" href="/pages/index{{page_num}}.html">{{page_num}}</a></li>
+              <li class="page-item active">
+                <a class="page-link" href="index{{'' if page_num==1 else page_num}}.html">{{page_num}}</a>
+              </li>
             {% else %}
-              <li class="page-item"><a class="page-link" href="/pages/index{{page_num}}.html">{{page_num}}</a></li>
+              <li class="page-item">
+                <a class="page-link" href="index{{'' if page_num==1 else page_num}}.html">{{page_num}}</a>
+              </li>
             {% endif %}
           {% endfor %}
           {% if page_count==active_page %}
             <li class="page-item disabled"><a class="page-link" href="#">Вперед</a></li>
           {% else %}
-             <li class="page-item"><a class="page-link" href="/pages/index{{active_page+1}}.html">Вперед</a></li>
+             <li class="page-item"><a class="page-link" href="index{{active_page+1}}.html">Вперед</a></li>
           {% endif %}
         </ul>
       </nav>
@@ -51,7 +57,7 @@
               <div class="card mb-3" style="max-width: 540px;">
                 <div class="row no-gutters">
                   <div class="col-md-4">
-                    <img src="/books/images/{{book.img_file_name|urlencode}}" class="card-img" alt="title image">
+                    <img src="../books/images/{{book.img_file_name|urlencode}}" class="card-img" alt="title image">
                   </div>
                   <div class="col-md-8">
                     <div class="card-body">
@@ -65,7 +71,7 @@
                           {% if not book.book_path %}
                             Текст книги отсутствует
                           {% else %}
-                            <a href="/{{book.book_path|urlencode}}">читать</a>
+                            <a href="../{{book.book_path|urlencode}}">читать</a>
                           {% endif %}
                         </small>
                       </p>

@@ -142,6 +142,4 @@ cython_debug/
 
 # others
 backup/
-books/
 images/
-pages/

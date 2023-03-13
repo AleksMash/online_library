@@ -71,7 +71,7 @@
                           {% if not book.book_path %}
                             Текст книги отсутствует
                           {% else %}
-                            <a href="../{{book.book_path|urlencode}}">читать</a>
+                            <a href="../{{book.book_url}}">читать</a>
                           {% endif %}
                         </small>
                       </p>

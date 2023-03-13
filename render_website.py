@@ -2,6 +2,7 @@ import json
 import os
 import math
 from pathlib import Path
+from urllib.request import pathname2url
 from http.server import HTTPServer, SimpleHTTPRequestHandler
 
 from more_itertools import chunked
@@ -10,14 +11,15 @@ from livereload import Server
 
 
 def on_reload():
-
-    with open("book_info.json", "r") as file:
-        books_json = file.read()
-    books = json.loads(books_json)
     env = Environment(
         loader=FileSystemLoader('.'),
         autoescape=select_autoescape(['html'])
     )
+    with open("book_info.json", "r") as file:
+        books_json = file.read()
+    books = json.loads(books_json)
+    for book in books:
+        book['book_url'] = pathname2url(book['book_path'])
     book_pages = chunked(books, 10)
     print(type(books))
     page_count = math.ceil(len(books)/10)

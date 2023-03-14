@@ -3,7 +3,6 @@ import os
 import math
 from pathlib import Path
 from urllib.request import pathname2url
-from http.server import HTTPServer, SimpleHTTPRequestHandler
 
 from more_itertools import chunked
 from jinja2 import Environment, FileSystemLoader, select_autoescape
@@ -15,7 +14,7 @@ def on_reload():
         loader=FileSystemLoader('.'),
         autoescape=select_autoescape(['html'])
     )
-    with open("book_info.json", "r") as file:
+    with open("books/book_info.json", "r") as file:
         books_json = file.read()
     books = json.loads(books_json)
     for book in books:
@@ -41,8 +40,6 @@ def main():
     on_reload()
     server = Server()
     server.watch('template.html', on_reload)
-    # server = HTTPServer(('127.0.0.1', 8000), SimpleHTTPRequestHandler)
-    # server.serve_forever()
     server.serve(root='.', default_filename='pages/index.html')
 
 

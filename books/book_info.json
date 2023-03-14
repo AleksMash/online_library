@@ -1,1826 +1,5 @@
 [
-    {
-        "title": "Starship Troopers",
-        "author": "Heinlein Robert A.",
-        "img_url": "https://tululu.org/shots/44261.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44261.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Steel Beach",
-        "author": "Varley John",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Stend up",
-        "author": "Дубов Сергей Игоревич",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Strawberry Fields Forever",
-        "author": "Иванов Борис",
-        "img_url": "https://tululu.org/shots/44268.jpg",
-        "comments": [],
-        "genres": [
-            "Детективная фантастика",
-            "Космическая фантастика",
-            "Научная фантастика"
-        ],
-        "img_file_name": "44268.jpg",
-        "book_path": "books\\1-я книга. Strawberry Fields Forever.txt"
-    },
-    {
-        "title": "Suldruns Garden",
-        "author": "Vance Jack",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Sung In Blood",
-        "author": "Cook Glen",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Survivors Quest",
-        "author": "Zahn Timothy",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Sylva",
-        "author": "Vercors Jean",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "THE CRYSTAL CITY",
-        "author": "Card Orson Scott",
-        "img_url": "https://tululu.org/shots/44279.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44279.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "THE DIVINE INVASION",
-        "author": "Dick Philip K.",
-        "img_url": "https://tululu.org/shots/44280.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44280.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "THE MAN WHO JAPED",
-        "author": "Dick Philip K.",
-        "img_url": "https://tululu.org/shots/44281.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44281.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "THE SHIPS OF EARTH",
-        "author": "Card Orson Scott",
-        "img_url": "https://tululu.org/shots/44282.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44282.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "THE SPIRIT RING",
-        "author": "Bujold Lois Mcmaster",
-        "img_url": "https://tululu.org/shots/44284.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44284.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "THE WORLD JONES MADE",
-        "author": "Dick Philip K.",
-        "img_url": "https://tululu.org/shots/44286.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44286.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "THE ZOO",
-        "author": "Van dijk John T.",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "TM1",
-        "author": "Матвеева Татьяна",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "TUPIK.TXT",
-        "author": "Азимов Айзек",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "books\\2-я книга. TUPIK.TXT.txt"
-    },
-    {
-        "title": "Take Back Your Government!",
-        "author": "Heinlein Robert A.",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Taklamakan",
-        "author": "Sterling Bruce",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Tales of the Black Widowers",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/shots/44294.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44294.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Tambu",
-        "author": "Asprin Robert",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Terra Incognita",
-        "author": "Сергеев Иннокентий",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Tertium non datum",
-        "author": "Видар Гарм",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "books\\3-я книга. Tertium non datum.txt"
-    },
-    {
-        "title": "The Adventure of the Lady on the Embankment",
-        "author": "Bujold Lois Mcmaster",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Apocalypse Troll",
-        "author": "Weber David",
-        "img_url": "https://tululu.org/shots/44302.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44302.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Author of the Acacia Seeds and Other Extracts from the Journal of the Association of Therolinguistics",
-        "author": "Le guin Ursula Kroeber",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Backward Look",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Belonging Kind",
-        "author": "Shirley John",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Big Picture",
-        "author": "Zahn Timothy",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Blind Assassin",
-        "author": "Atwood Margaret",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [
-            "excellent!"
-        ],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "books\\4-я книга. The Blind Assassin.txt"
-    },
-    {
-        "title": "The Book of Philip K Dick",
-        "author": "Dick Philip",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Bounty Hunter Wars 1 The Mandalorian Armor",
-        "author": "Zahn Timothy",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Brazen Gambit",
-        "author": "Abbey Lynn",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Brazen Locked Room",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Bromeliad 1 - Truckers",
-        "author": "Pratchett Terry",
-        "img_url": "https://tululu.org/shots/44313.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44313.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Bromeliad 2 - Diggers",
-        "author": "Pratchett Terry",
-        "img_url": "https://tululu.org/shots/44314.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44314.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Bromeliad 3 - Wings",
-        "author": "Pratchett Terry",
-        "img_url": "https://tululu.org/shots/44315.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44315.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Bug Wars",
-        "author": "Asprin Robert",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Carpet People",
-        "author": "Pratchett Terry",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Cat Who Walked Through Walls",
-        "author": "Heinlein Robert A.",
-        "img_url": "https://tululu.org/shots/44321.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44321.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Changed Man and the King of Words (Short Stories)",
-        "author": "Card Orson Scott",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The City and the Stars",
-        "author": "Clarke Arthur Charles",
-        "img_url": "https://tululu.org/shots/44323.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44323.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Cold Cash War",
-        "author": "Asprin Robert",
-        "img_url": "https://tululu.org/shots/44324.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44324.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Complete Robot",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/shots/44327.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44327.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Cookie Monster",
-        "author": "Vinge Vernor",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Crystal World",
-        "author": "Ballard J.g.",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Currents Of Space",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/shots/44332.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44332.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Curse of Chalion",
-        "author": "Bujold Lois Mcmaster",
-        "img_url": "https://tululu.org/shots/44333.jpg",
-        "comments": [
-            "Прочитал - так получилось - сначала вторую часть - интересно.\r\nЕсть интрига и оригинальная идея: для трёх героев есть только две жизни, и с этим что-то надо сделать.\r\nК сожалению, в последний момент автор извлекла из рукава самого бога, и все сложилось. Так делать не корректно."
-        ],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44333.jpg",
-        "book_path": "books\\5-я книга. The Curse of Chalion.txt"
-    },
-    {
-        "title": "The Dark One",
-        "author": "Metz Melinda",
-        "img_url": "https://tululu.org/shots/44336.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44336.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Darkness Before the Dawn",
-        "author": "Hughes Ryan",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Day before the Revolution",
-        "author": "Le guin Ursula Kroeber",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Day of the Triffids",
-        "author": "Wyndham John",
-        "img_url": "https://tululu.org/shots/44340.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44340.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Dim Rumble",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Doors of His Face, The Lamps of His Mouth and Other Stories",
-        "author": "Zelazny Roger",
-        "img_url": "https://tululu.org/shots/44343.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44343.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Dragon Never Sleeps",
-        "author": "Cook Glen",
-        "img_url": "https://tululu.org/shots/44344.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44344.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Dragonslayer",
-        "author": "Локхард Джордж",
-        "img_url": "https://tululu.org/shots/44345.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика",
-            "Фэнтези"
-        ],
-        "img_file_name": "44345.jpg",
-        "book_path": "books\\6-я книга. The Dragonslayer.txt"
-    },
-    {
-        "title": "The Dream Master",
-        "author": "Zelazny Roger",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Drought",
-        "author": "Ballard J. G.",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Drowned World",
-        "author": "Ballard J. G.",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Dying Earth",
-        "author": "Vance Jack",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Early Asimov. Volume 1",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/shots/44350.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44350.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Early Asimov. Volume 2",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/shots/44351.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44351.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Early Asimov. Volume 3",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Elephants Of Poznan",
-        "author": "Card Orson Scott",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The End of Eternity",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/shots/44354.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44354.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Excalibur Alternative",
-        "author": "Weber David",
-        "img_url": "https://tululu.org/shots/44355.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44355.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Fall Of Atlantis",
-        "author": "Bradley Marion Zimmer",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Fellowship of the Talisman",
-        "author": "Simak Clifford",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Firebrand",
-        "author": "Bradley Marion Zimmer",
-        "img_url": "https://tululu.org/shots/44361.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44361.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Four Horsemen, episode 1",
-        "author": "Dawkins Richard",
-        "img_url": "https://tululu.org/shots/44363.jpg",
-        "comments": [
-            "Это не фантастика. Это великолепный образец НАУЧНОГО атеизма (отнюдь не в марксистском, т.е. Убогом понимании) Рекомендую всем, кому надоел нынешний накат мракобесия!"
-        ],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44363.jpg",
-        "book_path": "books\\7-я книга. The Four Horsemen, episode 1.txt"
-    },
-    {
-        "title": "The Game-Players Of Titan",
-        "author": "Dick Philip",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Gernsback Continuum",
-        "author": "Gibson William",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Globe",
-        "author": "Pratchett Terry",
-        "img_url": "https://tululu.org/shots/44366.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44366.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Golden Globe",
-        "author": "Varley John",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Graveyard Book",
-        "author": "Gaiman Neil",
-        "img_url": "https://tululu.org/shots/44368.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44368.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Great Simoleon Caper",
-        "author": "Stephenson Neal",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Green And The Gray",
-        "author": "Zahn Timothy",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Green Millennium",
-        "author": "Leiber Fritz",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Green Pearl",
-        "author": "Vance Jack",
-        "img_url": "https://tululu.org/shots/44372.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44372.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Hacker Crackdown",
-        "author": "Sterling Bruce",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Hallowed Hunt",
-        "author": "Bujold Lois Mcmaster",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Heat Death of the Universe",
-        "author": "Zoline Pamela",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [
-            "Книжка на английском. Какая-то чушь."
-        ],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Hellbound Heart",
-        "author": "Barker Clive",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Icarus Hunt",
-        "author": "Zahn Timothy",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Intruder",
-        "author": "Metz Melinda",
-        "img_url": "https://tululu.org/shots/44382.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44382.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Last Defender Of Camelot",
-        "author": "Zelazny Roger",
-        "img_url": "https://tululu.org/shots/44386.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44386.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Last Precinct",
-        "author": "Cornwell Patricia",
-        "img_url": "https://tululu.org/shots/44387.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44387.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Lathe Of Heaven",
-        "author": "Le guin Ursula Kroeber",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Littlest Jackal",
-        "author": "Sterling Bruce",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Lovers",
-        "author": "Фармер Филип Хосе",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "books\\8-я книга. The Lovers.txt"
-    },
-    {
-        "title": "The Manifesto of January 3, 2000",
-        "author": "Sterling Bruce",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Many Worlds of Magnus Ridolph",
-        "author": "Vance Jack",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Martian Way and Other Stories",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/shots/44398.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44398.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Memory of Earth",
-        "author": "Card Orson Scott",
-        "img_url": "https://tululu.org/shots/44399.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44399.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Menace From Earth",
-        "author": "Heinlein Robert A.",
-        "img_url": "https://tululu.org/shots/44400.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44400.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Midwich Cuckoos",
-        "author": "Wyndham John",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Mists of Avalon",
-        "author": "Bradley Marion Marion",
-        "img_url": "https://tululu.org/shots/44402.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44402.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Moon Is a Harsh Mistress",
-        "author": "Heinlein Robert A.",
-        "img_url": "https://tululu.org/shots/44403.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44403.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Naked Matador",
-        "author": "Zelazny Roger",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Nether Scroll",
-        "author": "Abbey Lynn",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Night Has 999 Eyes",
-        "author": "Zelazny Roger",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Number of the Beast",
-        "author": "Heinlein Robert A.",
-        "img_url": "https://tululu.org/shots/44408.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44408.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Ophiuchi Hotline",
-        "author": "Varley John",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Outsider",
-        "author": "Metz Melinda",
-        "img_url": "https://tululu.org/shots/44410.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44410.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Penultimate Truth",
-        "author": "Dick Philip K.",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Persistence of Vision",
-        "author": "Varley John",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Philip K Dick Reader",
-        "author": "Dick Philip K.",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Positronic Man",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/shots/44414.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44414.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Rebel",
-        "author": "Metz Melinda",
-        "img_url": "https://tululu.org/shots/44416.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44416.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Rise and Fall of a Dragon King",
-        "author": "Abbey Lynn",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Rites of Winter",
-        "author": "Evans Christopher",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Rolling Stones",
-        "author": "Heinlein Robert A.",
-        "img_url": "https://tululu.org/shots/44419.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44419.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Salmon of Doubt",
-        "author": "Adams Douglas",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Salvation",
-        "author": "Metz Melinda",
-        "img_url": "https://tululu.org/shots/44421.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44421.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Satanic Bible",
-        "author": "Lavey Anton Szandor",
-        "img_url": "https://tululu.org/shots/44422.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44422.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Scabs Progress",
-        "author": "Filippo Paul Di",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Secret Sense",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Seeker",
-        "author": "Metz Melinda",
-        "img_url": "https://tululu.org/shots/44426.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44426.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Service of the Sword",
-        "author": "Weber David",
-        "img_url": "https://tululu.org/shots/44427.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44427.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Seventh Fool",
-        "author": "Cook Glen",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Sharing Knife: Beguilement",
-        "author": "Bujold Lois Mcmaster",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Shifting Realities of PK Dick",
-        "author": "Dick Philip",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Shroudling and the Guisel",
-        "author": "Zelazny Roger",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Simbuls Gift",
-        "author": "Abbey Lynn",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Simulacra",
-        "author": "Dick Philip K.",
-        "img_url": "https://tululu.org/shots/44437.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44437.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Stand",
-        "author": "King Stephen",
-        "img_url": "https://tululu.org/shots/44446.jpg",
-        "comments": [
-            "Один из самых любимых романов Стивена Кинга. Заставляет задуматься об истинных ценностях. Когда гибнет общество потребления, все прошлые ценности обесцениваются, и тогда на первое место выходят истинные ценности. Но поскольку человеческое общество состоит из разных людей - добрых, злых, достойных, подонков и т. д., всё человечество разделяется на 2 враждующих лагеря. Их всего-то выживших осталось 4%, но и те разделились. И, конечно, извечная борьба добра со злом."
-        ],
-        "genres": [
-            "Научная фантастика",
-            "Ужасы и мистика"
-        ],
-        "img_file_name": "44446.jpg",
-        "book_path": "books\\9-я книга. The Stand.txt"
-    },
-    {
-        "title": "The Star Beast",
-        "author": "Heinlein Robert A.",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Stars, Like Dust",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/shots/44448.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44448.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Stars at War",
-        "author": "Weber David",
-        "img_url": "https://tululu.org/shots/44450.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44450.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Stowaway",
-        "author": "Metz Melinda",
-        "img_url": "https://tululu.org/shots/44452.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44452.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Swordbearer",
-        "author": "Cook Glen",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Talkie Murder",
-        "author": "Ullman Albert Albert",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Terminal Man",
-        "author": "Crichton Michael",
-        "img_url": "https://tululu.org/shots/44455.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44455.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Thief of Always",
-        "author": "Barker Clive",
-        "img_url": "https://tululu.org/shots/44456.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44456.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Tower Of Fear",
-        "author": "Cook Glen",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Transmigration of Timothy Archer",
-        "author": "Dick Philip K.",
-        "img_url": "https://tululu.org/shots/44460.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44460.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Two-Centimeter Demon",
-        "author": "Asimov Issac",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Ugly Little Boy",
-        "author": "Asimov Isaac",
-        "img_url": "https://tululu.org/shots/44463.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44463.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Unparalleled Adventures of One Hans Pfaal",
-        "author": "По Эдгар Аллан",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "books\\10-я книга. The Unparalleled Adventures of One Hans Pfaal.txt"
-    },
-    {
-        "title": "The Unpleasant Profession Of Jonathan Hoag And Other Stories",
-        "author": "Heinlein Robert A.",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Unteleported Man",
-        "author": "Dick Philip K.",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Vanished",
-        "author": "Metz Melinda",
-        "img_url": "https://tululu.org/shots/44469.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44469.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Very Pulse of the Machine",
-        "author": "Swanwick Michael",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Visitors (v1.0)",
-        "author": "Simak Clifford D.",
-        "img_url": "https://tululu.org/shots/44471.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44471.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The War Gods Own",
-        "author": "Weber David",
-        "img_url": "https://tululu.org/shots/44472.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44472.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Warmasters",
-        "author": "Weber David",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Watcher",
-        "author": "Metz Melinda",
-        "img_url": "https://tululu.org/shots/44477.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44477.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Well of Lost Plots",
-        "author": "Fforde Jasper",
-        "img_url": "https://tululu.org/shots/44479.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44479.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Wild One",
-        "author": "Metz Melinda",
-        "img_url": "https://tululu.org/shots/44481.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44481.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Wind From Nowhere",
-        "author": "Ballard J.g.",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Wonderful Power of Storytelling",
-        "author": "Sterling Bruce",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The Zap Gun",
-        "author": "Dick Philip K.",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The city child",
-        "author": "Шаповаленко Денис",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "The truth is out here",
-        "author": "Шаповаленко Денис",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "books\\11-я книга. The truth is out here.txt"
-    },
-    {
-        "title": "Theater of Cruelty",
-        "author": "Pratchett Terry",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Thieves World: Turning Points",
-        "author": "Abbey Lynn",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Thirteen Views Of A Cardboard City",
-        "author": "Gibson William",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "TimeZero. Пепел обетованный",
-        "author": "Чекмаев Сергей Владимирович",
-        "img_url": "https://tululu.org/shots/44498.jpg",
-        "comments": [
-            "Самая лучшая книга на свете)))\nИ единственная которую я читал=)И жду таких ещё больше)))",
-            "Книга хорошая, но как сериал на самом интересном месте закончилась)))Почему он её кинул???"
-        ],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44498.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Time Bomb And Zahndry Others",
-        "author": "Zahn Timothy",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Time Enough For Love",
-        "author": "Heinlein Robert A.",
-        "img_url": "https://tululu.org/shots/44500.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44500.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Time For The Stars",
-        "author": "Heinlein Robert A.",
-        "img_url": "https://tululu.org/shots/44501.jpg",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "44501.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Time Machine",
-        "author": "Wells Herbert George",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Time Out of Joint",
-        "author": "Dick Philip K.",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
-        "title": "Timeline",
-        "author": "Crichton Michael",
-        "img_url": "https://tululu.org/images/nopic.gif",
-        "comments": [],
-        "genres": [
-            "Научная фантастика"
-        ],
-        "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
-    },
-    {
+   {
         "title": "Titan",
         "author": "Varley John",
         "img_url": "https://tululu.org/images/nopic.gif",
@@ -1829,7 +8,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "To Die In Italbar",
@@ -1840,7 +19,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44506.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "To Sail Beyond The Sunset",
@@ -1851,7 +30,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44507.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Treason",
@@ -1862,7 +41,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Treasure Box",
@@ -1873,7 +52,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44510.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Triplet",
@@ -1884,7 +63,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "True Names",
@@ -1895,7 +74,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44513.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Tunnel In The Sky",
@@ -1906,7 +85,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Turnabout",
@@ -1917,7 +96,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44517.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Turntables of the Night",
@@ -1928,7 +107,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Tyrannosaurus Rex",
@@ -1939,7 +118,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "UFO - Enemy Unknown",
@@ -1984,7 +163,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Unicorn Variation",
@@ -1995,7 +174,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Unlocking The Air",
@@ -2006,7 +185,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Unnatural Exposure",
@@ -2017,7 +196,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44531.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Unstable Networks",
@@ -2028,7 +207,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Utopia",
@@ -2039,7 +218,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44534.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Vacumn Flowers",
@@ -2050,7 +229,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Valis",
@@ -2061,7 +240,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Vaster Than Empires and More Slow",
@@ -2072,7 +251,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Vessel",
@@ -2083,7 +262,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Via Dolorosa",
@@ -2147,7 +326,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44543.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Vulcans Hammer",
@@ -2158,7 +337,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "W Kraju Niewiernych",
@@ -2169,7 +348,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Waldo",
@@ -2180,7 +359,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "War Is Virtual Hell",
@@ -2191,7 +370,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Warhorse",
@@ -2202,7 +381,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Warlock",
@@ -2213,7 +392,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Warrior",
@@ -2224,7 +403,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44555.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Was",
@@ -2235,7 +414,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Waterbaby",
@@ -2246,7 +425,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Way Station",
@@ -2257,7 +436,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44560.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "We Can Build You",
@@ -2268,7 +447,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "We Few",
@@ -2279,7 +458,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44562.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Weave World",
@@ -2290,7 +469,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44563.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Why Call Them Back from Heaven",
@@ -2301,7 +480,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Wild Girls",
@@ -2312,7 +491,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Wind Riders Oath",
@@ -2323,7 +502,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44566.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Wing Commander: Битва флотов",
@@ -2371,7 +550,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44570.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Wing Commander: Расплата",
@@ -2426,7 +605,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Winterfair Gifts",
@@ -2437,7 +616,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Winters Dreams",
@@ -2448,7 +627,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Wizard",
@@ -2459,7 +638,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Wizard World 1: Changeling",
@@ -2470,7 +649,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44582.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Wizard World 2: Madwand",
@@ -2481,7 +660,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44583.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Wonderland2000",
@@ -2503,7 +682,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44587.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Worlds of Honor",
@@ -2514,7 +693,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44588.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Wyrms",
@@ -2525,7 +704,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "X-COM - UFO Defense",
@@ -2569,7 +748,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44600.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Young Zaphod Plays It Safe",
@@ -2580,7 +759,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Zodiac. The Eco-Thriller",
@@ -2591,7 +770,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "44604.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "et in pulverem reverteris",
@@ -2613,7 +792,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Деревня Медный ковш",
@@ -2688,7 +867,7 @@
             "Современные любовные романы"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Облакайдеры(2004, 2006, 2008)",
@@ -2813,7 +992,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Аквамарин и летучие мыши",
@@ -2841,7 +1020,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "59440.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Деревня Медный ковш",
@@ -2874,7 +1053,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "59678.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Изгнанники Земли",
@@ -2923,7 +1102,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "60526.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Остров Больших Молний",
@@ -2961,7 +1140,7 @@
             "Путешествия и география"
         ],
         "img_file_name": "60799.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Подводные земледельцы",
@@ -2997,7 +1176,7 @@
             "Прочие приключения"
         ],
         "img_file_name": "61127.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Рубиновая звезда",
@@ -3037,7 +1216,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "61269.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Тайна Архелона (Крик дельфина)",
@@ -3067,7 +1246,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "61584.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Вестники Времен",
@@ -3082,7 +1261,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "61702.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Виртуальная Мадам Марго",
@@ -3107,7 +1286,7 @@
             "Научная фантастика"
         ],
         "img_file_name": "61886.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Бегство в Египет",
@@ -3119,7 +1298,7 @@
             "Современная проза"
         ],
         "img_file_name": "62723.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Безымянная трилогия: Крыса, Тень крысолова, Цивилизация птиц",
@@ -3132,7 +1311,7 @@
             "Социально-философская фантастика"
         ],
         "img_file_name": "62916.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Глас Господа",
@@ -3183,7 +1362,7 @@
             "Русская классическая проза"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Охотники до любви",
@@ -3207,7 +1386,7 @@
             "Советская классическая проза"
         ],
         "img_file_name": "72538.jpg",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Р - значит ракета",
@@ -3219,7 +1398,7 @@
             "Современная проза"
         ],
         "img_file_name": "nopic.gif",
-        "book_path": "Не удалось найти ссылку для загрузки книги"
+        "book_path": ""
     },
     {
         "title": "Сказка о царе и оружейном мастере",

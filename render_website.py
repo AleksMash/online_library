@@ -19,14 +19,11 @@ def on_reload(json_file_path):
         autoescape=select_autoescape(['html'])
     )
     with open(json_file_path, "r") as file:
-        books_json = file.read()
-    books = json.loads(books_json)
+        books = json.load(file)
     for book in books:
         book['book_url'] = pathname2url(book['book_path'])
     book_pages = chunked(books, 10)
-    print(type(books))
     page_count = math.ceil(len(books)/10)
-    print(page_count)
     for page_num, book_page in enumerate(book_pages):
         book_rows = chunked(book_page, 2)
         template = env.get_template('template.html')

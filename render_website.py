@@ -14,7 +14,7 @@ def on_reload():
         loader=FileSystemLoader('.'),
         autoescape=select_autoescape(['html'])
     )
-    with open("books/book_info.json", "r") as file:
+    with open("book_info.json", "r") as file:
         books_json = file.read()
     books = json.loads(books_json)
     for book in books:

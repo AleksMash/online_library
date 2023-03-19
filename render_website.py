@@ -26,13 +26,13 @@ def on_reload(json_file_path):
         book['book_url'] = pathname2url(book['book_path'])
     books_description_chunked = chunked(books_description, BOOKS_PER_PAGE)
     page_count = math.ceil(len(books_description)/BOOKS_PER_PAGE)
-    for page_num, book_page in enumerate(books_description_chunked):
+    for page_num, book_page in enumerate(books_description_chunked, start=1):
         book_rows = chunked(book_page, 2)
         template = env.get_template('template.html')
         rendered_page = template.render(
             book_rows=book_rows,
             page_count=page_count,
-            active_page=page_num+1
+            active_page=page_num
         )
         with open(Path('pages', f'index{"" if not page_num else page_num+1}.html'), 'w', encoding="utf8") as file:
             file.write(rendered_page)

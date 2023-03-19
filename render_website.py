@@ -10,6 +10,8 @@ from pathvalidate import sanitize_filepath
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from livereload import Server
 
+BOOKS_PER_PAGE = 10
+
 
 def on_reload(json_file_path):
     if not json_file_path:
@@ -22,8 +24,8 @@ def on_reload(json_file_path):
         books_description = json.load(file)
     for book in books_description:
         book['book_url'] = pathname2url(book['book_path'])
-    books_description_chunked = chunked(books_description, 10)
-    page_count = math.ceil(len(books_description)/10)
+    books_description_chunked = chunked(books_description, BOOKS_PER_PAGE)
+    page_count = math.ceil(len(books_description)/BOOKS_PER_PAGE)
     for page_num, book_page in enumerate(books_description_chunked):
         book_rows = chunked(book_page, 2)
         template = env.get_template('template.html')

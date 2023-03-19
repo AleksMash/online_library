@@ -13,7 +13,7 @@ from livereload import Server
 BOOKS_PER_PAGE = 10
 
 
-def on_reload(json_file_path):
+def on_reload(json_file_path=None):
     if not json_file_path:
         json_file_path = 'book_info.json'
     env = Environment(
@@ -26,15 +26,14 @@ def on_reload(json_file_path):
         book['book_url'] = pathname2url(book['book_path'])
     books_description_chunked = chunked(books_description, BOOKS_PER_PAGE)
     page_count = math.ceil(len(books_description)/BOOKS_PER_PAGE)
-    for page_num, book_page in enumerate(books_description_chunked, start=1):
-        book_rows = chunked(book_page, 2)
-        template = env.get_template('template.html')
+    template = env.get_template('template.html')
+    for page_num, books_page in enumerate(books_description_chunked, start=1):
         rendered_page = template.render(
-            book_rows=book_rows,
+            books=books_page,
             page_count=page_count,
             active_page=page_num
         )
-        with open(Path('pages', f'index{"" if not page_num else page_num+1}.html'), 'w', encoding="utf8") as file:
+        with open(Path('pages', f'index{"" if page_num == 1 else page_num}.html'), 'w', encoding="utf8") as file:
             file.write(rendered_page)
 
 
